@@ -17,8 +17,8 @@ Se puede personalizar la configuración y colores desde las líneas 15 a la 30
 
 ## Info versiones
 Funciona con la versión de Python 3.8.5
-Librerías usadas:
-  OpenCV          4.6.0.66
-  Mediapipe       0.8.10.1
-  PyAutoGUI       0.9.53
-  Numpy           1.19.2
+### Librerías usadas:
+- OpenCV          4.6.0.66
+- Mediapipe       0.8.10.1
+- PyAutoGUI       0.9.53
+- Numpy           1.19.2
