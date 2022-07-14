@@ -1,10 +1,10 @@
-## MouseScreen
+# MouseScreen
 
 Este es un script diseñado en python para utilizar la cámara de un dispositivo como si fuera una pantalla táctil.
 
 Se puede personalizar la configuración y colores desde las líneas 15 a la 30
 
-# Información sobre personalizaciones
+## Información sobre personalizaciones
 **seg**: son los segmentos en los que el mouse puede recorrer la pantalla, como si fuera una cuadrícula recorriendo la pantalla, para mejorar la precisión ya que como humanos nuestras manos pueden temblar, la cámara puede que se mueva o simplemente hay errores al detectar nuestra mano
 
 **Color**: son los colores de cada herramienta en la interfaz, en el código está bien definido
@@ -15,7 +15,7 @@ Se puede personalizar la configuración y colores desde las líneas 15 a la 30
 **click_ratio_fingers**: son pixeles de diferencia entre el cursor y el índice, o sea, qué tanto necesitamos bajar el índice para poder dar click, mientras más alto sea necesitaremos bajar menos el dedo, y en caso contrario mientras más bajo necesitaremos bajar más el dedo
 
 
-# Info versiones
+## Info versiones
 Funciona con la versión de Python 3.8.5
 Librerías usadas:
   OpenCV          4.6.0.66
